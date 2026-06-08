@@ -11,18 +11,17 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 
 
 
-<h2> Tech Stack</h2>
+<h2>Skills</h2>
 
+**Languages:** `Java` `Python` `JavaScript` `SQL`
 
-**Languages** `Java` `Python` `JavaScript` `SQL`
+**Web Technologies:** `React` `Node.js` `Express.js` `HTML5` `CSS3` `Tailwind CSS`
 
-**Frontend** `React` `HTML5` `CSS3` `Tailwind CSS`
+**Databases:** `MongoDB` `MySQL`
 
-**Backend** `Node.js` `Express.js` `REST APIs`
+**Libraries:** `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
 
-**Databases** `MongoDB` `MySQL`
-
-**Cloud & Tools** `AWS` `Docker` `Git` `GitHub` `Linux` `Vercel` `Render`
+**Tools:** `Git` `GitHub` `VS Code`
 
 
 
