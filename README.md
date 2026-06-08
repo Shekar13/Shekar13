@@ -68,8 +68,7 @@ AI-powered vehicle monitoring system with anomaly detection and license plate re
 
 - Salesforce Agentforce Specialist
 - MongoDB Associate Developer
-- Azure AI Fundamentals
-- ServiceNow CIS-DF
+
 
 ---
 
