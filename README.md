@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shekar Naidu</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | IT Student at CBIT</h3>
 
 ---
 ### 👨‍💻 About Me
