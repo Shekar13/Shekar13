@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Shekar Naidu 👋
 
-<!--
-**Shekar13/Shekar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Information Technology @ CBIT (CGPA: 9.27)
 
-Here are some ideas to get you started:
+💻 Full Stack Developer | AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building scalable web applications and AI-powered solutions.
+
+---
+
+## About Me
+
+- 🌱 Currently improving my DSA and Full Stack Development skills
+- 💡 Interested in Software Engineering, AI/ML, and Cloud Computing
+- 🏆 3rd Place – AI4Impact National-Level AI Hackathon
+- 🎯 Looking for Software Development and AI/ML opportunities
+
+---
+
+## Tech Stack
+
+### Languages
+Python | Java | JavaScript | SQL
+
+### Frontend
+React (Vite) | HTML5 | CSS3 | Tailwind CSS
+
+### Backend
+Node.js | Express.js | REST APIs
+
+### Databases
+MongoDB | MySQL
+
+### Cloud & DevOps
+AWS | Docker | CI/CD
+
+### Tools
+Git | GitHub | Linux | VS Code | Vercel | Render
+
+---
+
+## Featured Projects
+
+### EngageU
+College Club & Event Management Platform
+
+### Tuition Tracker
+Tuition Management System used for 25+ students
+
+### Employee Salary Prediction
+Machine Learning-based salary prediction system
+
+### Vehicle Anomaly Detection
+AI-powered vehicle monitoring and anomaly detection
+
+---
+
+## Experience
+
+### AICTE (Edunet Foundation) – AI & ML Intern
+June 2025 – July 2025
+
+- Built Employee Salary Prediction System
+- Worked on ML model development and evaluation
+- Applied SDLC practices in AI projects
+
+---
+
+## Certifications
+
+- Salesforce Agentforce Specialist
+- MongoDB Associate Developer
+
+---
+
+## Connect With Me
+
+📧 shekarnaidu13@gmail.com
+
+💼 LinkedIn: Add Your LinkedIn URL Here
+
+🌐 GitHub: https://github.com/Shekar13
