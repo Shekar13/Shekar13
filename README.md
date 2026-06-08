@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shekar Naidu</h1>
 
-<hr>
+---
 
 ### 👨‍💻 About Me
 
@@ -8,31 +8,21 @@ I am a B.E. Information Technology student at Chaitanya Bharathi Institute of Te
 
 I am passionate about Full Stack Development and AI/ML, and I enjoy building real-world applications while continuously learning new technologies.
 
-<br>
+---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages** `Java` `Python` `JavaScript` `SQL`
 
-`Java` `Python` `JavaScript` `SQL`
+**Frontend** `React` `HTML5` `CSS3` `Tailwind CSS`
 
-**Frontend**
+**Backend** `Node.js` `Express.js` `REST APIs`
 
-`React` `HTML5` `CSS3` `Tailwind CSS`
+**Databases** `MongoDB` `MySQL`
 
-**Backend**
+**Cloud & Tools** `AWS` `Docker` `Git` `GitHub` `Linux` `Vercel` `Render`
 
-`Node.js` `Express.js` `REST APIs`
-
-**Databases**
-
-`MongoDB` `MySQL`
-
-**Cloud & Tools**
-
-`AWS` `Docker` `Git` `GitHub` `Linux` `Vercel` `Render`
-
-<br>
+---
 
 ### 🚀 Featured Projects
 
@@ -48,24 +38,23 @@ Machine Learning application that predicts employee salaries using regression mo
 #### 📌 Vehicle Anomaly Detection
 AI-powered vehicle monitoring system with anomaly detection and license plate recognition.
 
-<br>
+---
 
 ### 💼 Experience
 
 **AI & ML Intern | AICTE - Edunet Foundation**
-
 - Developed Employee Salary Prediction System
 - Worked on ML model training and evaluation
 - Applied SDLC practices in AI projects
 
-<br>
+---
 
 ### 🏅 Certifications
 
 - Salesforce Agentforce Specialist
 - MongoDB Associate Developer
 
-<br>
+---
 
 ### 📫 Connect With Me
 
