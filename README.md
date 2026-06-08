@@ -3,6 +3,7 @@
 ---
 
 ### 👨‍💻 About Me
+***
 
 I am a B.E. Information Technology student at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, with a CGPA of 9.27/10.
 
@@ -11,6 +12,7 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 ---
 
 ### 🛠️ Tech Stack
+***
 
 **Languages** `Java` `Python` `JavaScript` `SQL`
 
@@ -25,6 +27,7 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 ---
 
 ### 🚀 Featured Projects
+***
 
 #### 📌 EngageU
 College Club & Event Management Platform with event registration and club recruitment workflows.
@@ -41,6 +44,7 @@ AI-powered vehicle monitoring system with anomaly detection and license plate re
 ---
 
 ### 💼 Experience
+***
 
 **AI & ML Intern | AICTE - Edunet Foundation**
 - Developed Employee Salary Prediction System
@@ -50,6 +54,7 @@ AI-powered vehicle monitoring system with anomaly detection and license plate re
 ---
 
 ### 🏅 Certifications
+***
 
 - Salesforce Agentforce Specialist
 - MongoDB Associate Developer
@@ -57,6 +62,7 @@ AI-powered vehicle monitoring system with anomaly detection and license plate re
 ---
 
 ### 📫 Connect With Me
+***
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shekar-naidu-nallapothula-b87124317/)
 - 📧 shekarnaidu13@gmail.com
