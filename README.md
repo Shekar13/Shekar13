@@ -79,6 +79,3 @@ AI-powered vehicle monitoring system with anomaly detection and license plate re
 
 ---
 
-### ⚡ Fun Fact
-
-I enjoy building real-world projects that combine Full Stack Development and Artificial Intelligence.
