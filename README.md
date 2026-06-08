@@ -26,20 +26,17 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 
 
 
-<h2> Featured Projects</h2>
+<h2>Projects</h2>
 
-#### 📌 EngageU
-College Club & Event Management Platform with event registration and club recruitment workflows.
+### EngageU
 
-#### 📌 Tuition Tracker
-Full-stack tuition management platform used for attendance, homework, and student progress tracking.
+- Built a full-stack platform for college event management and club recruitment, enabling seamless event registrations and application tracking.
+- Implemented secure authentication, role-based access control, and REST APIs using React, Node.js, Express.js, and MongoDB.
 
-#### 📌 Employee Salary Prediction
-Machine Learning application that predicts employee salaries using regression models.
+### Vehicle Anomaly Detection
 
-#### 📌 Vehicle Anomaly Detection
-AI-powered vehicle monitoring system with anomaly detection and license plate recognition.
-
+- Developing an AI-powered system to detect suspicious vehicle behavior using computer vision and deep learning techniques.
+- Integrating license plate recognition and real-time vehicle tracking for enhanced monitoring and anomaly analysis.
 
 <h2> Experience</h2>
 
