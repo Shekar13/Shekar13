@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shekar Naidu</h1>
 
----
+
 ### 👨‍💻 About Me
 
 I am a B.E. Information Technology student at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, with a CGPA of 9.27/10.
