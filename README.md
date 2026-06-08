@@ -7,7 +7,6 @@ I am a B.E. Information Technology student at Chaitanya Bharathi Institute of Te
 
 I am passionate about Full Stack Development and AI/ML, and I enjoy building real-world applications while continuously learning new technologies.
 
----
 
 ### 🛠️ Tech Stack
 
@@ -31,7 +30,7 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 
 `AWS` `Docker` `Git` `GitHub` `Linux` `Vercel` `Render`
 
----
+
 
 ### 🚀 Featured Projects
 
@@ -47,7 +46,7 @@ Machine Learning application that predicts employee salaries using regression mo
 #### 📌 Vehicle Anomaly Detection
 AI-powered vehicle monitoring system with anomaly detection and license plate recognition.
 
----
+
 
 ### 💼 Experience
 
@@ -57,7 +56,7 @@ AI-powered vehicle monitoring system with anomaly detection and license plate re
 - Worked on ML model training and evaluation
 - Applied SDLC practices in AI projects
 
----
+
 
 ### 🏅 Certifications
 
@@ -65,7 +64,7 @@ AI-powered vehicle monitoring system with anomaly detection and license plate re
 - MongoDB Associate Developer
 
 
----
+
 
 ### 📫 Connect With Me
 
