@@ -75,8 +75,8 @@ AI-powered vehicle monitoring system with anomaly detection and license plate re
 
 ### 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/shekar-naidu-nallapothula-b87124317/?skipRedirect=true
-- 📧 Email: shekarnaidu13@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shekar-naidu-nallapothula-b87124317/)
+- 📧 shekarnaidu13@gmail.com
 
 ---
 
