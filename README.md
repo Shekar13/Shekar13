@@ -5,12 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.E. Information Technology at CBIT
-- 📈 CGPA: 9.27/10
-- 🌱 Currently learning DSA, System Design, and Cloud Technologies
-- 💡 Interested in Software Development, AI/ML, and Full Stack Development
-- 🏆 3rd Place – AI4Impact National Level AI Hackathon
-- 🔍 Looking for Software Development and AI/ML opportunities
+I am pursuing a Bachelor of Engineering (B.E.) in Information Technology at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, with a CGPA of 9.27/10. I am passionate about Full Stack Development and AI/ML, and I enjoy building real-world applications that solve practical problems. I am continuously improving my problem-solving skills and exploring new technologies to grow as a Software Engineer.
 
 ---
 
