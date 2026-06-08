@@ -2,10 +2,11 @@
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | IT Student at CBIT</h3>
 
 ---
-
 ### 👨‍💻 About Me
 
-I am pursuing a Bachelor of Engineering (B.E.) in Information Technology at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, with a CGPA of 9.27/10. I am passionate about Full Stack Development and AI/ML, and I enjoy building real-world applications that solve practical problems. I am continuously improving my problem-solving skills and exploring new technologies to grow as a Software Engineer.
+I am pursuing a Bachelor of Engineering (B.E.) in Information Technology at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, with a CGPA of 9.27/10. My academic journey has strengthened my foundation in Data Structures & Algorithms, DBMS, Operating Systems, and Software Development.
+
+I am passionate about Full Stack Development and Artificial Intelligence, with hands-on experience in building web applications and machine learning projects. I enjoy solving real-world problems through technology and continuously learning new tools and frameworks to grow as a Software Engineer.
 
 ---
 
