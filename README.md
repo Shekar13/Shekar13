@@ -3,7 +3,7 @@
 
 
 <h2>👨‍💻 About Me</h2>
-<hr>
+
 
 I am a B.E. Information Technology student at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad, with a CGPA of 9.27/10.
 
