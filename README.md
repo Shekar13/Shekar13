@@ -46,9 +46,9 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 
 <h2>Publications</h2>
 
-### Real-Time License Plate Recognition in Low-Light Traffic Surveillance Using Qwen2-VL With Meta-Learning Adaptation
+**Real-Time License Plate Recognition in Low-Light Traffic Surveillance Using Qwen2-VL With Meta-Learning Adaptation**
 
-Presented at ICETIST 2026 and published in the conference proceedings.
+Research paper presented at ICETIST 2026, focusing on low-light traffic surveillance using Qwen2-VL and Meta-Learning Adaptation techniques for enhanced license plate recognition.
 
 <h2> Certifications</h2>
 
