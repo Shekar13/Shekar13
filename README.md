@@ -30,19 +30,25 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 
 ### EngageU
 
-- Built a full-stack platform for college event management and club recruitment, enabling seamless event registrations and application tracking.
+- Built a full-stack platform for college event management and club recruitment.
 - Implemented secure authentication, role-based access control, and REST APIs using React, Node.js, Express.js, and MongoDB.
 
-### Vehicle Anomaly Detection
+### Vehicle License Plate Recognition
 
-- Developing an AI-powered system to detect suspicious vehicle behavior using computer vision and deep learning techniques.
-- Integrating license plate recognition and real-time vehicle tracking for enhanced monitoring and anomaly analysis.
+- Developed a low-light license plate recognition system using Qwen2-VL and Meta-Learning Adaptation techniques.
+- Focused on improving recognition accuracy in challenging conditions such as night-time and poor visibility.
 
 <h2> Experience</h2>
 
 **AI & ML Intern | AICTE - Edunet Foundation**
 - Developed Employee Salary Prediction System
 - Worked on ML model training and evaluation
+
+<h2>Publications</h2>
+
+### Real-Time License Plate Recognition in Low-Light Traffic Surveillance Using Qwen2-VL With Meta-Learning Adaptation
+
+Presented at ICETIST 2026 and published in the conference proceedings.
 
 <h2> Certifications</h2>
 
