@@ -8,6 +8,8 @@ I am a B.E. Information Technology student at Chaitanya Bharathi Institute of Te
 
 I am passionate about Full Stack Development and AI/ML, and I enjoy building real-world applications while continuously learning new technologies.
 
+<br>
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -30,38 +32,42 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 
 `AWS` `Docker` `Git` `GitHub` `Linux` `Vercel` `Render`
 
+<br>
+
 ### 🚀 Featured Projects
 
 #### 📌 EngageU
-
 College Club & Event Management Platform with event registration and club recruitment workflows.
 
 #### 📌 Tuition Tracker
-
 Full-stack tuition management platform used for attendance, homework, and student progress tracking.
 
 #### 📌 Employee Salary Prediction
-
 Machine Learning application that predicts employee salaries using regression models.
 
 #### 📌 Vehicle Anomaly Detection
-
 AI-powered vehicle monitoring system with anomaly detection and license plate recognition.
+
+<br>
 
 ### 💼 Experience
 
 **AI & ML Intern | AICTE - Edunet Foundation**
 
-* Developed Employee Salary Prediction System
-* Worked on ML model training and evaluation
-* Applied SDLC practices in AI projects
+- Developed Employee Salary Prediction System
+- Worked on ML model training and evaluation
+- Applied SDLC practices in AI projects
+
+<br>
 
 ### 🏅 Certifications
 
-* Salesforce Agentforce Specialist
-* MongoDB Associate Developer
+- Salesforce Agentforce Specialist
+- MongoDB Associate Developer
+
+<br>
 
 ### 📫 Connect With Me
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/shekar-naidu-nallapothula-b87124317/)
-* 📧 [shekarnaidu13@gmail.com](mailto:shekarnaidu13@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shekar-naidu-nallapothula-b87124317/)
+- 📧 shekarnaidu13@gmail.com
