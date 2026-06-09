@@ -37,6 +37,11 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 - Developed a low-light license plate recognition system using Qwen2-VL and Meta-Learning Adaptation techniques.
 - Focused on improving recognition accuracy in challenging conditions such as night-time and poor visibility.
 
+### E-Commerce Sales Analytics Dashboard
+
+- Built an interactive Power BI dashboard to analyze sales, profit, customer, and product performance.
+- Created KPI cards, slicers, and visualizations using DAX and Power Query to generate business insights.
+
 <h2> Experience</h2>
 
 **AI & ML Intern | AICTE - Edunet Foundation**
