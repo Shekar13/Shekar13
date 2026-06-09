@@ -19,7 +19,9 @@ I am passionate about Full Stack Development and AI/ML, and I enjoy building rea
 
 **Databases:** `MongoDB` `MySQL`
 
-**Libraries:** `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
+**Libraries:** `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+
+**Data Analytics & BI:** `Power BI` `DAX` `Power Query`
 
 **Tools:** `Git` `GitHub` `VS Code`
 
